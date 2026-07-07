@@ -41,29 +41,12 @@ This project answers the following business questions:
 •	Outlier detection using the Interquartile Range (IQR) method 
 
 ## Business Questions Answered
-1. Product Performance
-     Highest revenue-generating products 
-     Most frequently purchased products 
-2. Sales Performance
-     Average order value 
-     Median order value 
-     Monthly revenue trends 
-     Peak sales days 
-     Seasonal sales patterns 
-3. Customer Analysis
-     Highest-spending customers 
-     Repeat customers 
-     Customer purchasing behavior 
-4. Marketing Analysis
-     Referral source effectiveness 
-     Coupon usage 
-     Coupon impact on average order value 
-5. Operational Analysis
-     Order shipment rate 
-     Payment method popularity 
-     Revenue by payment method 
-6. Statistical Analysis
-     Detection of unusually large orders using the IQR method
+1. Product Performance: Highest revenue-generating products and most frequently purchased products. 
+2. Sales Performance: Average order value, median order value, monthly revenue trends, peak sales days, seasonal sales patterns.
+3. Customer Analysis: Highest-spending customers, repeat customers, customer purchasing behavior. 
+4. Marketing Analysis: Referral source effectiveness, coupon usage, coupon impact on average order value. 
+5. Operational Analysis: Order shipment rate, payment method popularity, revenue by payment method. 
+6. Statistical Analysis: Detection of unusually large orders using the IQR method
 
 ## Skills Demonstrated
 •	SQL querying 
